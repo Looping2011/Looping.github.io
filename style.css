@@ -20,7 +20,7 @@ h3 {
     margin-right: 5px;
 } 
 .ribbon {
-    background-color: #B19CD9;
+    background-color: red;
     height: 50px;
     display: flex;
     align-items: center;
@@ -46,7 +46,7 @@ h3 {
     margin-top: 3px;
 }
 .ribbon-button {
-    background-color: #B19CD9;
+    background-color: red;
     border: none;
     color: #FFFFFF;
     font-size: 16px;
@@ -58,7 +58,7 @@ h3 {
     transition: background-color 0.2s ease-in-out;
 }
 .ribbon-button:hover {
-    background-color: #D4A6F0;
+    background-color: dark-red;
     color: #fff;
 }
 @media (max-width: 768px) {
